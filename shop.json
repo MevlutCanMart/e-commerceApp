@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bluetooth headphone",
+      "price": 2000,
+      "categoryId": 1,
+      "description": "JBL Headphone 520bt",
+      "imageUrl": "https://images.unsplash.com/photo-1578517581165-61ec5ab27a19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1043&q=80"
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "price": 3000,
+      "categoryId": 2,
+      "description": "a4tech 520bt",
+      "imageUrl": "https://images.unsplash.com/photo-1578517581165-61ec5ab27a19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1043&q=80"
+    },
+    {
+      "name": " Dark SP100 speaker",
+      "description": "--------vvvv----vvv---vv",
+      "price": "50000",
+      "imageUrl": "https://productimages.hepsiburada.net/s/31/222-222/10323613351986.jpg/format:webp",
+      "categoryId": "1",
+      "id": 3
+    },
+    {
+      "name": "samsung fırın",
+      "description": "mikrodalga",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "price": "5000",
+      "categoryId": "2",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Computer"
+    },
+    {
+      "id": 2,
+      "name": "Electronic"
+    }
+  ]
+}
